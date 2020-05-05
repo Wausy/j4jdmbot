@@ -23,7 +23,7 @@ client.ayarlar = {
 "oynuyor":"J4J YAPILIR JOİN FOR JOİN DM",
 "prefix":".",
 "sahip":"662464079633580032",
-"token":"NjY5ODg2MTM3NDEzNzk1ODUw.XimcuA.j-W7HlAr2ZhK6O0kjbymZF_H3-Y"
+"token":"TOKEN"
 }
 /////////////////////////////////////////////
 

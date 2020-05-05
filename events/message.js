@@ -11,7 +11,7 @@ module.exports = message => {
   let client = message.client;
   if (message.author.bot) return;
   if(message.author.id == client.user.id) return; //KENDİ MESAJLARA TEPKİ VERMEYİ ÇEVRİMDİSİ BİRAQTİM
-  if(message.channel.id == "605472029579280394") return; //GRUBU ÇEVRİMDİSİ BİRAQTİM
+  if(message.channel.id == "İD") return; //GRUBU ÇEVRİMDİSİ BİRAQTİM
  // if (!message.guild) return message.reply("https://discord.gg/4cve2Hf JOİN ");
   if (!message.content.startsWith(client.ayarlar.prefix)) return;
   let komut = message.content.split(" ")[0].slice(client.ayarlar.prefix.length);
